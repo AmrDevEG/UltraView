@@ -4,6 +4,9 @@
 
 UltraView gives mobile gamers a true wide iPad perspective without root access, an instant split-screen stretch assistant, and customizable floating triggers for faster, more comfortable gameplay.
 
+> **Official Website:** Download UltraView and explore full features and setup guides on the official website: https://ultraview-x64.pages.dev/  
+> **الموقع الرسمي:** لتحميل التطبيق ومعرفة كافة المميزات وطريقة التشغيل، تفضل بزيارة الموقع الرسمي: https://ultraview-x64.pages.dev/
+
 ---
 
 ## English
@@ -56,6 +59,7 @@ UltraView is a lightweight gaming companion built to unlock wider fields of view
 
 ## Developer & Community
 
+* **Official Website:** https://ultraview-x64.pages.dev/
 * **YouTube (`@X64_Community`):** https://www.youtube.com/@X64_Community
 * **Telegram (`@Amr_x64`):** https://t.me/Amr_x64
 * **Discord Server:** https://discord.gg/bpNBJSHh2k
